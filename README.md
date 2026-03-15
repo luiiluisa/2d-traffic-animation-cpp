@@ -13,8 +13,8 @@ The animation presents a short story of a character traveling from home to work 
 
 
 ## Project Structure
-src/ – source code of the application  
-demo/ – video of the animation
+CODE – source code of the application  
+DEMO – video of the animation
 
 
 ## Technologies
