@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672491022 source:c:\users\catalin\documents\luisa\info\scoala\proiect\grapichs\camion\scoala\scoala\main.cpp
+	<iostream>
+	<graphics.h>
+
